@@ -1,3 +1,3 @@
-Node.js Random Color Generator
+# Node.js Random Color Generator
 
-This Projects generates random colors
+This Project generates random colors
